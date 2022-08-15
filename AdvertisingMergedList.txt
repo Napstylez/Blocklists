@@ -9783,7 +9783,6 @@
 127.0.0.1 ledhenone.com
 127.0.0.1 machieved.com
 127.0.0.1 minemytraffic.com
-127.0.0.1 miner.pr0gramm.com
 127.0.0.1 minero.pw
 127.0.0.1 minescripts.info
 127.0.0.1 minr.pw
@@ -100236,7 +100235,8 @@
 127.0.0.1 zy16eoat1w.com
 127.0.0.1 zzhc.vnet.cn
 127.0.0.1 localhost
-127.0.0.1 ::1 localhost
+127.0.0.1 ::1
+127.0.0.1 localhost
 127.0.0.1 livew.l.qq.com
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 wxsnsdy.wxs.qq.com
